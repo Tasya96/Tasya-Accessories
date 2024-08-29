@@ -544,6 +544,9 @@ section{
         font-size: 2rem;
     }
 
+    .header .navbar a:hover{
+    color:var(--bg);
+
     .header .search-form {
         width: 90%;
         right: 2rem;
@@ -573,6 +576,9 @@ section{
     html{
         font-size: 35%;
     }
+
+    .header .navbar a:hover{
+    color:var(--bg);
 
     .items .box-container .box .imgs{
         justify-content: center;
