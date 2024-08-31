@@ -7,7 +7,6 @@
     --purple:#a020f0;
     --bg:#ffa500;
     --border:.1rem solid rgba(255,255,255.3);
-
 }
 
 * {
@@ -52,7 +51,6 @@ section{
     text-align: center;
     color: #fff;
     text-transform: uppercase;
-    padding-top: 3.5rem;
     padding-bottom: 3.5rem;
     font-size: 4rem;
 }
